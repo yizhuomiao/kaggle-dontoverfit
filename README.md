@@ -1,5 +1,5 @@
 # kaggle_dontoverfit
-Kaggle: Don't Overfit! II Playground Prediction Competition (Top2% #36 Solution)
+Kaggle: Don't Overfit! II Playground Prediction Competition (Top1.5%, #36/2330 Solution)
 
 (https://www.kaggle.com/c/dont-overfit-ii/overview)
 
